@@ -1,6 +1,6 @@
 # Restful Booker API - Manual QA & API Automation Project
 
-![CI](https://github.com/BrandonTLau/restful-booker-tests/actions/workflows/api-tests.yml/badge.svg)
+Link to test cases: https://docs.google.com/spreadsheets/d/1euRr23ZrPwIvcJ9CO6gFbPDbOutgUohqOL63SElwU44/edit?usp=sharing
 
 Manual and automated API testing project for the [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html) practice API — a booking service with Create, Read, Update, Partial Update, and Delete endpoints.
 
